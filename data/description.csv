@@ -1,4 +1,6 @@
 ﻿label,sublabel,description,styles,bgcolor
-燃えるごみ,,,,#ff6e59
-燃えないごみ,,,,#ba5ed5
+もやせるごみ,,,,#ff6e59
+もやせないごみ,,,,#ba5ed5
 古紙,,,,#81d12e
+缶,,,,#08b925
+びん・ペットボトル,,,,#7fc6e4
